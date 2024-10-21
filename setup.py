@@ -18,7 +18,7 @@ setup(
     name="SapnaApi",
     version=version(),
     author="˹ sᴀᴘɴᴀ ᴘᴏᴡᴇʀғᴜʟ ᴀᴘɪ ˼",
-    author_email="sanatanixtech@gmail.com",
+    author_email="sachinxpapa@gmail.com",
     description="python api hub | SapnaApi",
     long_description_content_type="text/markdown",
     long_description=long_desc,
