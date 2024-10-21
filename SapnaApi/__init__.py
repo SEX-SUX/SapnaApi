@@ -21,8 +21,8 @@ class SapnaApi:
     
     def __init__(self)->None:
         """Api for various purpose
-    support group : https://t.me/the_support_chat
-    owner : @uttam470
+    support group : https://t.me/SANATANI_SUPPORT
+    owner : @V_VIP_OWNER
         """
         pass
     
