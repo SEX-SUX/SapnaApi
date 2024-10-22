@@ -16,7 +16,7 @@ with open("README.md", encoding="utf8") as readme:
 # Setting up
 setup(
     name="SapnaApi",
-    version=version(),
+    version=version(0.1),
     author="˹ sᴀᴘɴᴀ ᴘᴏᴡᴇʀғᴜʟ ᴀᴘɪ ˼",
     author_email="sachinxpapa@gmail.com",
     description="python api hub | SapnaApi",
